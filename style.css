@@ -1,0 +1,24 @@
+.ivitation{
+    margin: 30px auto;
+    width: 600px;
+    height: 700px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+.background{
+    width: 100%;
+    height: 100%;
+}
+.title{
+    font-size: 56px;
+    color: bisque;
+    text-shadow: 2px 2px 4px #00000094;
+}
+.details{
+    font-size: 18px;
+    line-height: 2;
+    color: #FFFFFF;
+    background-color: black;
+    padding: 10px;
+    border-radius:8px ;
+}
